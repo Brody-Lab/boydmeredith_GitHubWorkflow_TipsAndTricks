@@ -417,9 +417,9 @@ github.com/\<username>/example_project/issues
 I started using a workflow at the end of my PhD and found it incredibly helpful not just for maintaining my code, but for identifying and addressing scientific questions in my project. The contours of this workflow were suggested to me by Brody Lab alum Alex Piet, so eternal thanks to him for that.
 
 Steps:
-1. Create a project board by going to github.com/\<username\>?tab\=projects and choose the board layout. The automatic configuration will be 3 lists, "To Do", "In Progress", "Done."
+1. **Create a project board** by going to github.com/\<username\>?tab\=projects and choose the board layout. The automatic configuration will be 3 lists, "To Do", "In Progress", "Done."
 
-2. Create a To Do List
+2. **Create a To Do List** in your project board
 
     To create a To Do Item:
 
@@ -429,16 +429,16 @@ Steps:
 
     - Click the feature name to add a description by pressing "edit" in the upper right corner of the description box. You can type markdown, latex, add pictures and you can even make a checklist by making a list with "- [ ]". These will be recognized as metadata and as you check them off, will tell you how many of the total tasks you've completed".
 
-3. Pick something to work on and drag it to "In Progress"
+3. **Pick something to work on** and drag it to "In Progress"
 
     - Try to keep only 1 or 2 items in this column. If items stay there for many days, split them into 2 or more items and use a PR to move the completed work into the "Done" column.
 
-4. Follow GitHub Flow to do the work associated with this To Do item (i.e., checkout a branch, edit things, make commits, push branch to remote, open PR, merge PR with "Closes #\<issue-numer>")
+4. **Follow GitHub Flow to do the work** associated with this To Do item (i.e., checkout a branch, edit things, make commits, push branch to remote, open PR, merge PR with "Closes #\<issue-numer>")
 
     - As you work, update the comments on this To Do item to document decisions you've made or new things you've learned.
     - If you work on the problem for more than a few days, break the item into one that you've finished and one containing the work left to be done.
 
-5. Watch the "Done" column fill up with a nicely documented list of issues you've addressed!
+5. **Watch the "Done" column fill up** with a nicely documented list of issues you've addressed!
 
 Here's an example of what the one I'm using for the wait time model project looks like. You can explore it [here](https://github.com/orgs/Brody-Lab/projects/1/views/1).
 
